@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/AMAZON%20SALES%20ANALYTICS-POWER%20BI%20DASHBOARD-1f2a4c?style=for-the-badge&logo=powerbi&logoColor=yellow" />
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Data-Amazon%20Products-blue?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Model-DAX%20%2B%20Power%20Query-purple?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Visuals-Interactive%20Dashboard-orange?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+
+</p>
+
+
+
+
 # 📊 Amazon Sales Analytics Dashboard (Power BI)
 
 A fully interactive **Power BI dashboard** built to analyze Amazon product sales across multiple categories using year-to-date (YTD) and quarter-to-date (QTD) metrics.  

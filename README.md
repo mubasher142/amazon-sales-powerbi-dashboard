@@ -87,8 +87,6 @@ Below is the main report page showcasing KPIs, charts, and slicers:
 
 ![Dashboard Overview](https://github.com/mubasher142/amazon-sales-powerbi-dashboard/blob/main/Screenshot-dahsborad.png)
 
-> *(Replace the image path above with your actual screenshot file name, e.g.  
-`![Dashboard](https://raw.githubusercontent.com/<username>/amazon-sales-powerbi-dashboard/main/Screenshot-dashboard.png)`)*
 
 ---
 
